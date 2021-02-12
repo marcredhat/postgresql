@@ -1,4 +1,4 @@
-# postgresql
+# PostgreSQL SCRAM test
 
 On RHEL 7:
 ```bash
